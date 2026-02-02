@@ -91,9 +91,10 @@ I build scalable, secure, and real-time web applications with a strong foundatio
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xashishtiwari&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xashishtiwari&show_icons=true&count_private=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xashishtiwari&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xashishtiwari&layout=compact&theme=tokyonight"/>
 </p>
+
